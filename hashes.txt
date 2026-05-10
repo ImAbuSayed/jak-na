@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jak Na
+
+This log tracks the cryptographic history and versioning for the song **Jak Na** (jak-na).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T04:20:18.881456 | `v1` | `0e152d454f9bca065072bf93b7d5f941ef0f769c9a930868d706bbfe5babdb15` | `32fb0492439e77666ad92b649c83abff276344155c660bcac44bde6c118f6642` | `2026-05-11_jak-na-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jak-na/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Jak Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jak-na/) |
+| **Get License** | [Get a Licensing Quote for Jak Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jak-na/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0e152d454f9bca065072bf93b7d5f941ef0f769c9a930868d706bbfe5babdb15` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

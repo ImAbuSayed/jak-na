@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশে উড়ুক মনটা যাক না
+> হৃদয় জুড়ে প্রেমের আগুন লাগুক না
+> আঁধারে আজ ফুটুক নতুন জোছনা
+> স্মৃতির ছায়া দূরে কোথাও যাক না
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0e152d454f9bca065072bf93b7d5f941ef0f769c9a930868d706bbfe5babdb15` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
