@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jak-na/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Jak Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jak-na/) |
+| **Get License** | [Obtain a Music License for Jak Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jak-na/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশে উড়ুক মনটা যাক না
+> হৃদয় জুড়ে প্রেমের আগুন লাগুক না
+> আঁধারে আজ ফুটুক নতুন জোছনা
+> স্মৃতির ছায়া দূরে কোথাও যাক না
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
